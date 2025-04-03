@@ -2,7 +2,7 @@
 
 <h3 align="center">About me</h3>
 
-- 🎓 Currently studying Computer Science at University of Cyprus.
+- 🎓 Currently studying Computer Science at **University of Cyprus**.
   
 - 👯 **Looking to collaborate:** On open source projects or innovative ideas.
   
